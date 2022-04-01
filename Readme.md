@@ -2,7 +2,7 @@
 
 - It's a small presentation about the basics of typescript for Track & Trace 
 
-# Notes about Typescript
+## Notes about Typescript
 - Is a programming language extending javascript
 - Is a superset to JavaScript
 - It extends JavaScript syntax with extra types (strong/static types)
