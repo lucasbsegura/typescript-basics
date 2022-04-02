@@ -1,6 +1,6 @@
 ## Typescript basics
 
-- It's a small presentation about the basics of typescript for Track & Trace 
+- It's the code used for a small presentation about the basics of typescript for Track & Trace 
 
 ## Notes about Typescript
 - Is a programming language extending javascript
